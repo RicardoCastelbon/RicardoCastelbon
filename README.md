@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 👋 I’m Ricardo, a FullStack Developer studing at Chas Academy in Stockholm, Sweden.
-- 🌱 I’m currently learning HTML, CSS, JavaScript, TypeScript PHP, Laravel, MySQL, Angular, React, Node.js, Express.js, MongoDB
+- 👋 I am Ricardo, a student at Chas Academy in Stockholm, Sweden.
+- 🌱 I’m currently learning `FullStack Development`
 - :thinking: I’m currently open for: `An Internship` or a new `job opportunity`.
 - 📫 You can reach me at ricardocastelbon@gmail.com
 
