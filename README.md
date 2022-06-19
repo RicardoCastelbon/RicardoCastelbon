@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 👋 I’m Ricardo, a FullStack Developer studing at Chas Academy in Stockholm, Sweden.
-- 🌱 I’m currently learning HTML, CSS, JavaScript, PHP, Laravel, MySQL, Angular, React, Node.js, Express.js, MongoDB
+- 🌱 I’m currently learning HTML, CSS, JavaScript, TypeScript PHP, Laravel, MySQL, Angular, React, Node.js, Express.js, MongoDB
 - :thinking: I’m currently open for: `An Internship` or a new `job opportunity`.
 - 📫 You can reach me at ricardocastelbon@gmail.com
 
@@ -23,16 +23,13 @@
    <img src="https://img.shields.io/badge/PHP-1c1c1c?&style=flat-square&logo=PHP" />
 </p>
 
-### 👉 Frontend Development
+### 👉 Frameworks
 <p align="center"> 
   &emsp; 
-  <a href="https://www.w3.org/html/" target="_blank"> 
-   <img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=plastic&logo=html5&logoColor=white">
-  </a>   
+ <img align="left" src="https://img.shields.io/badge/React-1c1c1c?&style=flat-square&logo=React" />
   &emsp;
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?style=plastic&logo=css3&logoColor=white">
-  </a> 
+ <img align="left" src="https://img.shields.io/badge/Angular-1c1c1c?&style=flat-square&logo=Angular" />
+  <img align="left" src="https://img.shields.io/badge/Laravel-1c1c1c?&style=flat-square&logo=Laravel" />
 </p>
 
  ### 👉 Software & Tools
