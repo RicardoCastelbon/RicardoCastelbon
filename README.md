@@ -32,6 +32,7 @@
  <img align="left" src="https://img.shields.io/badge/Tailwindcss-1c1c1c?&style=flat-square&logo=Tailwindcss" />
  <img align="left" src="https://img.shields.io/badge/Bootstrap-1c1c1c?&style=flat-square&logo=Bootstrap" />
  <img align="left" src="https://img.shields.io/badge/Sass-1c1c1c?&style=flat-square&logo=sass" />
+   &emsp;
 </p>
 
  ### 👉 Software & Tools
