@@ -16,7 +16,7 @@
   &emsp;
    <img alt="Css3" src="https://img.shields.io/badge/Css-1c1c1c?&style=flat-square&logo=Css3">
   &emsp;
-   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black">
+  <img align="left" src="https://img.shields.io/badge/JavaScript-1c1c1c?&style=flat-square&logo=JavaScript" />
   &emsp;
     <img align="left" src="https://img.shields.io/badge/TypeScript-1c1c1c?&style=flat-square&logo=TypeScript" />
   &emsp;
