@@ -26,11 +26,17 @@
 ### 👉 Frameworks & Libraries
 <p align="center"> 
  <img src="https://img.shields.io/badge/React-1c1c1c?&style=flat-square&logo=React" />
+  &emsp;
  <img src="https://img.shields.io/badge/Angular-1c1c1c?&style=flat-square&logo=Angular" />
+  &emsp;
  <img src="https://img.shields.io/badge/Laravel-1c1c1c?&style=flat-square&logo=Laravel" />
+  &emsp;
  <img src="https://img.shields.io/badge/Express-1c1c1c?&style=flat-square&logo=Express" />
+  &emsp;
  <img src="https://img.shields.io/badge/Tailwindcss-1c1c1c?&style=flat-square&logo=Tailwindcss" />
+  &emsp;
  <img src="https://img.shields.io/badge/Bootstrap-1c1c1c?&style=flat-square&logo=Bootstrap" />
+  &emsp;
  <img src="https://img.shields.io/badge/Sass-1c1c1c?&style=flat-square&logo=sass" />
    &emsp;
 </p>
@@ -39,7 +45,6 @@
  
 <p align="center">
   &emsp;
-   <img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?style=plastic&logo=git&logoColor=white">
    <img src="https://img.shields.io/badge/Git-1c1c1c?&style=flat-square&logo=git" />
   &emsp;
    <img alt="GitHub" src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white">
