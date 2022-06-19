@@ -16,11 +16,11 @@
   &emsp;
    <img alt="Css3" src="https://img.shields.io/badge/Css-1c1c1c?&style=flat-square&logo=Css3">
   &emsp;
-  <img align="left" src="https://img.shields.io/badge/JavaScript-1c1c1c?&style=flat-square&logo=JavaScript" />
+  <img src="https://img.shields.io/badge/JavaScript-1c1c1c?&style=flat-square&logo=JavaScript" />
   &emsp;
-    <img align="left" src="https://img.shields.io/badge/TypeScript-1c1c1c?&style=flat-square&logo=TypeScript" />
+    <img src="https://img.shields.io/badge/TypeScript-1c1c1c?&style=flat-square&logo=TypeScript" />
   &emsp;
-   <img align="left" src="https://img.shields.io/badge/PHP-1c1c1c?&style=flat-square&logo=PHP" />
+   <img src="https://img.shields.io/badge/PHP-1c1c1c?&style=flat-square&logo=PHP" />
 </p>
 
 ### 👉 Frontend Development
