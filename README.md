@@ -23,13 +23,15 @@
    <img src="https://img.shields.io/badge/PHP-1c1c1c?&style=flat-square&logo=PHP" />
 </p>
 
-### 👉 Frameworks
+### 👉 Frameworks & Libraries
 <p align="center"> 
-  &emsp; 
  <img align="left" src="https://img.shields.io/badge/React-1c1c1c?&style=flat-square&logo=React" />
-  &emsp;
  <img align="left" src="https://img.shields.io/badge/Angular-1c1c1c?&style=flat-square&logo=Angular" />
-  <img align="left" src="https://img.shields.io/badge/Laravel-1c1c1c?&style=flat-square&logo=Laravel" />
+ <img align="left" src="https://img.shields.io/badge/Laravel-1c1c1c?&style=flat-square&logo=Laravel" />
+ <img align="left" src="https://img.shields.io/badge/Tailwindcss-1c1c1c?&style=flat-square&logo=Tailwindcss" />
+ <img align="left" src="https://img.shields.io/badge/Bootstrap-1c1c1c?&style=flat-square&logo=Bootstrap" />
+ <img align="left" src="https://img.shields.io/badge/Sass-1c1c1c?&style=flat-square&logo=sass" />
+  <img align="left" src="https://img.shields.io/badge/Express-1c1c1c?&style=flat-square&logo=Express" />
 </p>
 
  ### 👉 Software & Tools
@@ -40,17 +42,8 @@
   &emsp;
     <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white"></a>
   &emsp;
-    <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets%20-%2334A853.svg?style=plastic&logo=google%20sheets&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Mark Down" src="https://img.shields.io/badge/Markdown-000000?style=plastic&logo=markdown&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=plastic&logo=stack-overflow&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Geekf For Geeks" src="https://img.shields.io/badge/geeksforgeeks-%230F9D58.svg?style=plastic&logo=geeksforgeeks&logoColor=white"></a>
-  &emsp;
     <a href="#"><img alt="JSON" img src="https://img.shields.io/badge/json-%23000000.svg?style=plastic&logo=json&logoColor=white"></a>
   &emsp;
-    <a href="#"><img alt="OpenGL" src="https://img.shields.io/badge/opengl-%235586A4.svg?style=plastic&logo=opengl&logoColor=white"></a>
+   <a href="#"><img alt="JSON" img src="https://img.shields.io/badge/json-%23000000.svg?style=plastic&logo=json&logoColor=white"></a>
   &emsp;
-    <a href="#"><img alt="Selenium" src="https://img.shields.io/badge/selenium-%2343B02A.svg?&style=plastic&logo=selenium&logoColor=white"></a>
 </p>
