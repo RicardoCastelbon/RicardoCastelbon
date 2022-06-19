@@ -25,13 +25,13 @@
 
 ### 👉 Frameworks & Libraries
 <p align="center"> 
- <img align="left" src="https://img.shields.io/badge/React-1c1c1c?&style=flat-square&logo=React" />
- <img align="left" src="https://img.shields.io/badge/Angular-1c1c1c?&style=flat-square&logo=Angular" />
- <img align="left" src="https://img.shields.io/badge/Laravel-1c1c1c?&style=flat-square&logo=Laravel" />
- <img align="left" src="https://img.shields.io/badge/Express-1c1c1c?&style=flat-square&logo=Express" />
- <img align="left" src="https://img.shields.io/badge/Tailwindcss-1c1c1c?&style=flat-square&logo=Tailwindcss" />
- <img align="left" src="https://img.shields.io/badge/Bootstrap-1c1c1c?&style=flat-square&logo=Bootstrap" />
- <img align="left" src="https://img.shields.io/badge/Sass-1c1c1c?&style=flat-square&logo=sass" />
+ <img src="https://img.shields.io/badge/React-1c1c1c?&style=flat-square&logo=React" />
+ <img src="https://img.shields.io/badge/Angular-1c1c1c?&style=flat-square&logo=Angular" />
+ <img src="https://img.shields.io/badge/Laravel-1c1c1c?&style=flat-square&logo=Laravel" />
+ <img src="https://img.shields.io/badge/Express-1c1c1c?&style=flat-square&logo=Express" />
+ <img src="https://img.shields.io/badge/Tailwindcss-1c1c1c?&style=flat-square&logo=Tailwindcss" />
+ <img src="https://img.shields.io/badge/Bootstrap-1c1c1c?&style=flat-square&logo=Bootstrap" />
+ <img src="https://img.shields.io/badge/Sass-1c1c1c?&style=flat-square&logo=sass" />
    &emsp;
 </p>
 
@@ -39,10 +39,11 @@
  
 <p align="center">
   &emsp;
-    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?style=plastic&logo=git&logoColor=white"></a>
+   <img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?style=plastic&logo=git&logoColor=white">
+   <img alt="Git" src="https://img.shields.io/badge/React%20-%23F05033.svg?style=plastic&logo=react&logoColor=white">
   &emsp;
-    <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white"></a>
+   <img alt="GitHub" src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white">
   &emsp;
-    <a href="#"><img alt="JSON" img src="https://img.shields.io/badge/json-%23000000.svg?style=plastic&logo=json&logoColor=white"></a>
+    <img alt="JSON" img src="https://img.shields.io/badge/json-%23000000.svg?style=plastic&logo=json&logoColor=white">
   &emsp;
 </p>
