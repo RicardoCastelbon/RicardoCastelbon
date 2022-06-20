@@ -47,7 +47,7 @@
  
 <p align="center">
   &emsp;
-   <img alt="Git" src="https://img.shields.io/badge/Git-%23181717.svg?style=plastic&logo=Git">
+   <img alt="Git" src="https://img.shields.io/badge/Git-%93111757.svg?style=plastic&logo=Git">
   &emsp;
    <img alt="GitHub" src="https://img.shields.io/badge/github-%23000000.svg?style=plastic&logo=github">
   &emsp;
