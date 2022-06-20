@@ -49,7 +49,7 @@
   &emsp;
    <img alt="Git" src="https://img.shields.io/badge/Git-%23181717.svg?style=plastic&logo=Git">
   &emsp;
-   <img alt="GitHub" src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github">
+   <img alt="GitHub" src="https://img.shields.io/badge/github-%23000000.svg?style=plastic&logo=github">
   &emsp;
     <img alt="JSON" img src="https://img.shields.io/badge/json-%23000000.svg?style=plastic&logo=json">
   &emsp;
