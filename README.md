@@ -50,11 +50,11 @@
    <img alt="Git" src="https://img.shields.io/badge/Git-1c1c1c?&style=flat-square&logo=git" />
    <img alt="Git" src="https://img.shields.io/badge/Git-%23181717.svg?style=plastic&logo=Git&logoColor=white">
   &emsp;
-   <img alt="GitHub" src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white">
+   <img alt="GitHub" src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github">
   &emsp;
-    <img alt="JSON" img src="https://img.shields.io/badge/json-%23000000.svg?style=plastic&logo=json&logoColor=white">
+    <img alt="JSON" img src="https://img.shields.io/badge/json-%23000000.svg?style=plastic&logo=json">
   &emsp;
-   <img alt="MySQL" img src="https://img.shields.io/badge/MySQL-%23000000.svg?style=plastic&logo=mysql&logoColor=white">
+   <img alt="MySQL" img src="https://img.shields.io/badge/MySQL-%23000000.svg?style=plastic&logo=mysql">
   &emsp;
    <img alt="MongoDB" img src="https://img.shields.io/badge/MongoDB-%23000000.svg?style=plastic&logo=mongodb&logoColor=white">
   &emsp;
