@@ -41,14 +41,16 @@
    &emsp;
 </p>
 
- ### 👉 Software & Tools
+ ### 👉 Software, Tools & Other
  
 <p align="center">
   &emsp;
-   <img src="https://img.shields.io/badge/Git-1c1c1c?&style=flat-square&logo=git" />
+   <img alt="Git" src="https://img.shields.io/badge/Git-1c1c1c?&style=flat-square&logo=git" />
   &emsp;
    <img alt="GitHub" src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white">
   &emsp;
     <img alt="JSON" img src="https://img.shields.io/badge/json-%23000000.svg?style=plastic&logo=json&logoColor=white">
+  &emsp;
+   <img alt="MySQL" img src="https://img.shields.io/badge/mysql-%23000000.svg?style=plastic&logo=mysql&logoColor=white">
   &emsp;
 </p>
