@@ -14,9 +14,9 @@
   &emsp; 
    <img alt="Html5" src="https://img.shields.io/badge/Html-%23000000.svg?style=plastic&logo=Html5">
   &emsp;
-   <img alt="Css3" src="https://img.shields.io/badge/Css-%23000000?.svg?style=plastic&logo=Css3">
+   <img alt="Css3" src="https://img.shields.io/badge/Css-%23000000.svg?style=plastic&logo=Css3">
   &emsp;
-  <img src="https://img.shields.io/badge/JavaScript-%23000000?.svg?style=plastic&logo=JavaScript" />
+  <img src="https://img.shields.io/badge/JavaScript-%23000000.svg?style=plastic&logo=JavaScript" />
   &emsp;
     <img src="https://img.shields.io/badge/TypeScript-%23000000.svg?style=plastic&logo=TypeScript" />
   &emsp;
