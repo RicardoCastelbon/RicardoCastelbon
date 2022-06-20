@@ -2,7 +2,7 @@
 
 - 👋 I am Ricardo, a student at Chas Academy in Stockholm, Sweden.
 - 🌱 I’m currently learning `FullStack Development`
-- :thinking: I’m currently open for: `An Internship` or a new `job opportunity`.
+- :thinking: I’m currently open for: `An internship` or a new `job opportunity`.
 - 📫 You can reach me at ricardocastelbon@gmail.com
 
   
