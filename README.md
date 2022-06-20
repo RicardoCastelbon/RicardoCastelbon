@@ -51,7 +51,7 @@
   &emsp;
     <img alt="JSON" img src="https://img.shields.io/badge/json-%23000000.svg?style=plastic&logo=json&logoColor=white">
   &emsp;
-   <img alt="MySQL" img src="https://img.shields.io/badge/mysql-%23000000.svg?style=plastic&logo=mysql&logoColor=white">
+   <img alt="MySQL" img src="https://img.shields.io/badge/MySQL-%23000000.svg?style=plastic&logo=mysql&logoColor=white">
   &emsp;
    <img alt="MongoDB" img src="https://img.shields.io/badge/MongoDB-%23000000.svg?style=plastic&logo=mongodb&logoColor=white">
   &emsp;
