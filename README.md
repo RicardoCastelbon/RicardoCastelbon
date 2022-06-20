@@ -8,7 +8,7 @@
   
 ## 🛠️ My Skills
 
-### 👉 Languages
+### 👉 Languages & Databases
 
 <p align="center"> 
   &emsp; 
@@ -21,6 +21,11 @@
     <img src="https://img.shields.io/badge/TypeScript-%23000000.svg?style=plastic&logo=TypeScript" />
   &emsp;
    <img src="https://img.shields.io/badge/PHP-%23000000.svg?style=plastic&logo=PHP" />
+   &emsp;
+   <img alt="MySQL" img src="https://img.shields.io/badge/MySQL-%23000000.svg?style=plastic&logo=mysql">
+  &emsp;
+   <img alt="MongoDB" img src="https://img.shields.io/badge/MongoDB-%23000000.svg?style=plastic&logo=mongodb">
+  &emsp;
 </p>
 
 ### 👉 Frameworks & Libraries
@@ -54,9 +59,6 @@
   <img alt="Docker" src="https://img.shields.io/badge/Docker-%23000000.svg?style=plastic&logo=docker">
   &emsp;
     <img alt="JSON" img src="https://img.shields.io/badge/JSON-%23000000.svg?style=plastic&logo=json">
-  &emsp;
-   <img alt="MySQL" img src="https://img.shields.io/badge/MySQL-%23000000.svg?style=plastic&logo=mysql">
-  &emsp;
-   <img alt="MongoDB" img src="https://img.shields.io/badge/MongoDB-%23000000.svg?style=plastic&logo=mongodb">
-  &emsp;
+   &emsp;
+    <img alt="Heroku" img src="https://img.shields.io/badge/Heroku-%23000000.svg?style=plastic&logo=heroku">
 </p>
