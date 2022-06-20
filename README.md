@@ -24,7 +24,9 @@
 </p>
 
 ### 👉 Frameworks & Libraries
+
 <p align="center"> 
+  &emsp; 
  <img src="https://img.shields.io/badge/React-1c1c1c?&style=flat-square&logo=React" />
   &emsp;
  <img src="https://img.shields.io/badge/Angular-1c1c1c?&style=flat-square&logo=Angular" />
