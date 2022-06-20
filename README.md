@@ -12,34 +12,34 @@
 
 <p align="center"> 
   &emsp; 
-   <img alt="Html5" src="https://img.shields.io/badge/Html-%23000000?&style=flat-square&logo=Html5">
+   <img alt="Html5" src="https://img.shields.io/badge/Html-%23000000.svg?style=plastic&logo=Html5">
   &emsp;
-   <img alt="Css3" src="https://img.shields.io/badge/Css-%23000000?&style=flat-square&logo=Css3">
+   <img alt="Css3" src="https://img.shields.io/badge/Css-%23000000?.svg?style=plastic&logo=Css3">
   &emsp;
-  <img src="https://img.shields.io/badge/JavaScript-%23000000?&style=flat-square&logo=JavaScript" />
+  <img src="https://img.shields.io/badge/JavaScript-%23000000?.svg?style=plastic&logo=JavaScript" />
   &emsp;
-    <img src="https://img.shields.io/badge/TypeScript-%23000000?&style=flat-square&logo=TypeScript" />
+    <img src="https://img.shields.io/badge/TypeScript-%23000000.svg?style=plastic&logo=TypeScript" />
   &emsp;
-   <img src="https://img.shields.io/badge/PHP-%23000000?&style=flat-square&logo=PHP" />
+   <img src="https://img.shields.io/badge/PHP-%23000000.svg?style=plastic&logo=PHP" />
 </p>
 
 ### 👉 Frameworks & Libraries
 
 <p align="center"> 
   &emsp;
- <img src="https://img.shields.io/badge/React-%23000000?&style=flat-square&logo=React" />
+ <img src="https://img.shields.io/badge/React-%23000000.svg?style=plastic&logo=React" />
   &emsp;
- <img src="https://img.shields.io/badge/Angular-%23000000?&style=flat-square&logo=Angular" />
+ <img src="https://img.shields.io/badge/Angular-%23000000.svg?style=plastic&logo=Angular" />
   &emsp;
- <img src="https://img.shields.io/badge/Laravel-%23000000?&style=flat-square&logo=Laravel" />
+ <img src="https://img.shields.io/badge/Laravel-%23000000.svg?style=plastic&logo=Laravel" />
   &emsp;
- <img src="https://img.shields.io/badge/Express-%23000000?&style=flat-square&logo=Express" />
+ <img src="https://img.shields.io/badge/Express-%23000000.svg?style=plastic&logo=Express" />
   &emsp;
- <img src="https://img.shields.io/badge/Tailwindcss-%23000000?&style=flat-square&logo=Tailwindcss" />
+ <img src="https://img.shields.io/badge/Tailwindcss-%23000000.svg?style=plastic&logo=Tailwindcss" />
   &emsp;
- <img src="https://img.shields.io/badge/Bootstrap-%23000000?&style=flat-square&logo=Bootstrap" />
+ <img src="https://img.shields.io/badge/Bootstrap-%23000000.svg?style=plastic&logo=Bootstrap" />
   &emsp;
- <img src="https://img.shields.io/badge/Sass-%23000000?&style=flat-square&logo=sass" />
+ <img src="https://img.shields.io/badge/Sass-%23000000.svg?style=plastic&logo=sass" />
    &emsp;
 </p>
 
