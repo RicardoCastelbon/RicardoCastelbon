@@ -10,7 +10,6 @@
 
 ### 👉 Languages
 
-
 <p align="center"> 
   &emsp; 
    <img alt="Html5" src="https://img.shields.io/badge/Html-1c1c1c?&style=flat-square&logo=Html5">
@@ -24,13 +23,10 @@
    <img src="https://img.shields.io/badge/PHP-1c1c1c?&style=flat-square&logo=PHP" />
 </p>
 
-
 ### 👉 Frameworks & Libraries
-
 
 <p align="center"> 
   &emsp;
-  &emsp; 
  <img src="https://img.shields.io/badge/React-1c1c1c?&style=flat-square&logo=React" />
   &emsp;
  <img src="https://img.shields.io/badge/Angular-1c1c1c?&style=flat-square&logo=Angular" />
@@ -47,9 +43,7 @@
    &emsp;
 </p>
 
-
  ### 👉 Software, Tools & Other
- 
  
 <p align="center">
   &emsp;
@@ -64,5 +58,3 @@
    <img alt="MongoDB" img src="https://img.shields.io/badge/MongoDB-%23000000.svg?style=plastic&logo=mongodb">
   &emsp;
 </p>
-
-
