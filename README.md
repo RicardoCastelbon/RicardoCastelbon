@@ -56,6 +56,6 @@
   &emsp;
    <img alt="MySQL" img src="https://img.shields.io/badge/MySQL-%23000000.svg?style=plastic&logo=mysql">
   &emsp;
-   <img alt="MongoDB" img src="https://img.shields.io/badge/MongoDB-%23000000.svg?style=plastic&logo=mongodb&logoColor=white">
+   <img alt="MongoDB" img src="https://img.shields.io/badge/MongoDB-%23000000.svg?style=plastic&logo=mongodb">
   &emsp;
 </p>
