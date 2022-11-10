@@ -34,6 +34,8 @@
   &emsp;
  <img src="https://img.shields.io/badge/React-%23000000.svg?style=plastic&logo=React" />
   &emsp;
+  <img src="https://img.shields.io/badge/React-%23000000.svg?style=plastic&logo=Next" />
+  &emsp;
  <img src="https://img.shields.io/badge/Angular-%23000000.svg?style=plastic&logo=Angular" />
   &emsp;
  <img src="https://img.shields.io/badge/Laravel-%23000000.svg?style=plastic&logo=Laravel" />
