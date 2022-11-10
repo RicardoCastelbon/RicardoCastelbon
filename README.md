@@ -34,7 +34,7 @@
   &emsp;
  <img src="https://img.shields.io/badge/React-%23000000.svg?style=plastic&logo=React" />
   &emsp;
-  <img src="https://img.shields.io/badge/Nextjs-%23000000.svg?style=plastic&logo=Nextjs" />
+  <img src="https://img.shields.io/badge/Next.js-%23000000.svg?style=plastic&logo=Next.js" />
   &emsp;
  <img src="https://img.shields.io/badge/Angular-%23000000.svg?style=plastic&logo=Angular" />
   &emsp;
