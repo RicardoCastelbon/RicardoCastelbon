@@ -19,8 +19,6 @@
   <img src="https://img.shields.io/badge/JavaScript-%23000000.svg?style=plastic&logo=JavaScript" />
   &emsp;
     <img src="https://img.shields.io/badge/TypeScript-%23000000.svg?style=plastic&logo=TypeScript" />
-  &emsp;
-   <img src="https://img.shields.io/badge/PHP-%23000000.svg?style=plastic&logo=PHP" />
    &emsp;
    <img alt="MySQL" img src="https://img.shields.io/badge/MySQL-%23000000.svg?style=plastic&logo=mysql">
   &emsp;
