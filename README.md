@@ -36,8 +36,6 @@
   &emsp;
  <img src="https://img.shields.io/badge/Angular-%23000000.svg?style=plastic&logo=Angular" />
   &emsp;
- <img src="https://img.shields.io/badge/Laravel-%23000000.svg?style=plastic&logo=Laravel" />
-  &emsp;
  <img src="https://img.shields.io/badge/Express-%23000000.svg?style=plastic&logo=Express" />
   &emsp;
  <img src="https://img.shields.io/badge/Tailwindcss-%23000000.svg?style=plastic&logo=Tailwindcss" />
